@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Facundo Medina</h1>
 <h3 align="center">A passionate FullStack developer from Argentina</h3>
 
+<h3 align="center">Welcome to my GitHub profile!
+I am a computer engineering student, programming student</h3>
+
+<p>Web developer proficient in JavaScript, Java, SQL, C#, HTML and CSS. Experience building dynamic web applications with JavaScript and implementing Java backend solutions. With knowledge of SQL statements for efficient database management. Proficient in C# for Windows applications and web services. Experience in HTML and CSS for responsive web design. continuous learner. Let's collaborate and create exceptional web experiences!</p>
+
+
 - 🌱 I’m currently learning **React.js,Node,js,SQL**
 
 - 📫 How to reach me **medinafacundojobs@gmail.com**
